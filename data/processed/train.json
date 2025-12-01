@@ -1,1731 +1,1731 @@
 [
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_127.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_127.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_378.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_378.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_45.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_45.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_163.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_163.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_53.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_53.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_207.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_207.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_188.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_188.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_402.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_402.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_180.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_180.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_328.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_328.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_296.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_296.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_410.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_410.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_423.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_423.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_230.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_230.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_318.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_318.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_59.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_59.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_253.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_253.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_246.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_246.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_93.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_93.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_432.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_432.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_267.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_267.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_109.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_109.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_467.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_467.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_244.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_244.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_7.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_7.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_72.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_72.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_307.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_307.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_164.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_164.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_336.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_336.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_208.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_208.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_368.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_368.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_277.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_277.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_291.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_291.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_41.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_41.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_100.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_100.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_21.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_21.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_233.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_233.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_427.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_427.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_120.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_120.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_448.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_448.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_245.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_245.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_463.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_463.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_151.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_151.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_393.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_393.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_218.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_218.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_362.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_362.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_364.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_364.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_132.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_132.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_74.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_74.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_384.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_384.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_392.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_392.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_94.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_94.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_434.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_434.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_300.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_300.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_50.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_50.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_196.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_196.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_452.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_452.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_383.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_383.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_247.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_247.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_389.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_389.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_141.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_141.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_89.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_89.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_37.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_37.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_269.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_269.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_4.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_4.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_92.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_92.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_460.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_460.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_95.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_95.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_474.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_474.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_144.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_144.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_129.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_129.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_203.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_203.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_440.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_440.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_162.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_162.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_353.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_353.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_184.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_184.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_363.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_363.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_210.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_210.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_403.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_403.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_11.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_11.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_6.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_6.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_268.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_268.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_242.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_242.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_175.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_175.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_96.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_96.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_340.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_340.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_88.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_88.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_292.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_292.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_26.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_26.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_77.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_77.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_211.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_211.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_312.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_312.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_217.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_217.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_326.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_326.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_420.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_420.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_158.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_158.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_190.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_190.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_153.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_153.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_226.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_226.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_284.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_284.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_179.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_179.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_348.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_348.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_85.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_85.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_319.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_319.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_212.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_212.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_455.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_455.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_323.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_323.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_437.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_437.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_38.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_38.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_320.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_320.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_69.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_69.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_106.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_106.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_400.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_400.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_438.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_438.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_317.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_317.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_155.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_155.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_31.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_31.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_240.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_240.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_8.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_8.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_391.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_391.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_480.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_480.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_461.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_461.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_472.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_472.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_160.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_160.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_288.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_288.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_382.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_382.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_68.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_68.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_131.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_131.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_201.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_201.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_143.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_143.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_2.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_2.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_18.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_18.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_139.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_139.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_347.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_347.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_76.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_76.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_249.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_249.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_310.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_310.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_182.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_182.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_334.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_334.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_177.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_177.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_444.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_444.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_66.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_66.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_199.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_199.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_133.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_133.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_401.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_401.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_156.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_156.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_266.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_266.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_374.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_374.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_145.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_145.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_261.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_261.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_220.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_220.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_386.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_386.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_154.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_154.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_313.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_313.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_17.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_17.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_443.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_443.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_20.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_20.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_130.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_130.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_223.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_223.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_293.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_293.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_330.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_330.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_396.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_396.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_297.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_297.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_149.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_149.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_241.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_241.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_170.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_170.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_341.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_341.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_187.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_187.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_198.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_198.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_435.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_435.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_14.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_14.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_55.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_55.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_75.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_75.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_213.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_213.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_39.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_39.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_356.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_356.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_257.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_257.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_408.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_408.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_178.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_178.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_209.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_209.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_361.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_361.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_415.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_415.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_67.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_67.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_99.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_99.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_304.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_304.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_97.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_97.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_429.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_429.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_228.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_228.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_278.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_278.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_251.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_251.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_421.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_421.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_484.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_484.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_238.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_238.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_42.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_42.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_60.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_60.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_192.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_192.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_417.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_417.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_263.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_263.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_479.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_479.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_483.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_483.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_492.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_492.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_322.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_322.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_490.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_490.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_113.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_113.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_19.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_19.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_215.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_215.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_118.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_118.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_254.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_254.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_345.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_345.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_289.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_289.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_294.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_294.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_488.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_488.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_446.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_446.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_237.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_237.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_441.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_441.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_430.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_430.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_27.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_27.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_464.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_464.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_86.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_86.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_227.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_227.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_103.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_103.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_476.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_476.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_25.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_25.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_303.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_303.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_167.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_167.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_457.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_457.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_470.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_470.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_405.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_405.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_221.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_221.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_411.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_411.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_105.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_105.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_280.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_280.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_90.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_90.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_447.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_447.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_168.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_168.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_387.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_387.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_344.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_344.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_48.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_48.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_104.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_104.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_206.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_206.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_286.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_286.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_200.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_200.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_62.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_62.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_365.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_365.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_147.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_147.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_146.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_146.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_225.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_225.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_333.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_333.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_354.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_354.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_372.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_372.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_385.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_385.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_314.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_314.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_124.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_124.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_171.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_171.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_398.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_398.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_121.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_121.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_262.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_262.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_169.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_169.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_376.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_376.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_34.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_34.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_265.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_265.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_30.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_30.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_458.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_458.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_482.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_482.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_397.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_397.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_486.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_486.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_10.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_10.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_173.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_173.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_337.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_337.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_115.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_115.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_358.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_358.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_61.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_61.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_231.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_231.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_264.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_264.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_224.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_224.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_471.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_471.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_351.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_351.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_159.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_159.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_102.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_102.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_306.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_306.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_369.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_369.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_339.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_339.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_466.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_466.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_419.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_419.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_84.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_84.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_281.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_281.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_243.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_243.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_65.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_65.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_64.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_64.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_272.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_272.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_418.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_418.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_248.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_248.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_43.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_43.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_454.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_454.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_370.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_370.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_123.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_123.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_29.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_29.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_122.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_122.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_157.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_157.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_380.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_380.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_324.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_324.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_9.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_9.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_250.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_250.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_165.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_165.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_0.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_0.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_271.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_271.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_276.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_276.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_82.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_82.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_191.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_191.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_342.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_342.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_468.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_468.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_394.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_394.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_315.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_315.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_152.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_152.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_54.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_54.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_259.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_259.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_91.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_91.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_256.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_256.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_355.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_355.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_1.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_1.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_407.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_407.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_80.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_80.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_222.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_222.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_426.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_426.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_493.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_493.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_450.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_450.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_399.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_399.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_431.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_431.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_58.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_58.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_5.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_5.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_283.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_283.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_128.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_128.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_270.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_270.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_239.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_239.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<neutral>的情感<|im_end|>",
     "label": "neutral"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_416.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_416.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_195.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_195.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_197.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_197.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<happy>的情感<|im_end|>",
     "label": "happy"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_32.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_32.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_305.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_305.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<sad>的情感<|im_end|>",
     "label": "sad"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_451.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_451.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_453.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_453.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_425.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_425.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<surprise>的情感<|im_end|>",
     "label": "surprise"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_78.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_78.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_56.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_56.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_24.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_24.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   },
   {
-    "audio_feature_path": "/Users/yangxuexin/learn/llm2mlm/data/processed/features/feat_46.npy",
+    "audio_feature_path": "/Users/yangxuexin/learn/Audio-LLM/data/processed/features/feat_46.npy",
     "text": "<|im_start|>user\n判断音频的情感分类，需要从['angry', 'happy', 'neutral', 'sad', 'surprise']中选择<|im_end|>\n<|im_start|>assistant\n这个音频为<angry>的情感<|im_end|>",
     "label": "angry"
   }

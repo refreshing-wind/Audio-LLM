@@ -34,7 +34,7 @@
 ## 项目结构
 
 ```
-llm2mlm/
+Audio-LLM/
 ├── README.md               # 项目说明文档
 ├── src/                    # 核心源码包
 │   ├── __init__.py
