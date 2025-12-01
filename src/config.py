@@ -15,5 +15,5 @@ QWEN3_0_6B_MODEL_PATH = f"{MODEL_BASE_DIR}/Qwen3-0.6B"
 # 数据根目录
 DATA_BASE_DIR = "/Users/yangxuexin/learn/dataset"
 
-# 语言模型
+# 语音情感数据集
 CHISER5_PATH = f"{DATA_BASE_DIR}/ChiSER5/chiSER_5/chiSER_5"
