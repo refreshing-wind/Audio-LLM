@@ -50,7 +50,7 @@ llm2mlm/
 ├── data/                   # 数据目录
 │   └── processed/          # 预处理后的特征和 JSON 数据
 ├── output/                 # 输出目录
-    ├── checkpoints/        # 训练检查点
+    ├── results/        # 训练检查点
     └── audio_qwen_merged/  # 最终合并的模型
 ```
 
